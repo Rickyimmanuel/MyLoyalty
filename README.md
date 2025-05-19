@@ -1,6 +1,3 @@
-Sure! Here's a more engaging and emoji-enhanced GitHub project description for **MyLoyalty**:
-
----
 
 ## 🎉 MyLoyalty – Snap Bills, Earn Rewards! 📸💰
 
@@ -38,16 +35,4 @@ The platform features:
 * **Backend (OCR Service):** FastAPI 🚀
 * **Database & Auth:** Supabase 🧪🔐
 
----
 
-## 🧪 Project Status
-
-💡 Currently in **active development** – core features implemented, with more enhancements and polish on the way!
-
----
-
-Feel free to 🌟 star the repo, fork it, or contribute! Let’s redefine loyalty, one bill at a time. 🙌
-
----
-
-Let me know if you want this turned into a `README.md` file or need help deploying it on GitHub Pages or Firebase.
